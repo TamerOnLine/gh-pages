@@ -8,4 +8,4 @@ It is automatically deployed to GitHub Pages via GitHub Actions.
 - mkdocs-material
 - GitHub Actions
 
-🔗 [Live Documentation](https://TamerOnLine.github.io/tameronline-gh-pages/)
+🔗 [Live Documentation](https://tameronline.github.io/gh-pages/)
