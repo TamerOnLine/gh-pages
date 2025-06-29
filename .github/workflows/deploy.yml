@@ -1,0 +1,9 @@
+name: 📘 Use MkDocs Deploy Template
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    uses: TamerOnLine/jinja-ui/.github/workflows/docs.yml@main
