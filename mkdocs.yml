@@ -1,4 +1,14 @@
 site_name: TamerOnline Docs
+site_url: https://tameronline.github.io/gh-pages/
+
 theme:
   name: material
 
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date
+  - macros
