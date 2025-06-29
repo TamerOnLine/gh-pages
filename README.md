@@ -1,5 +1,7 @@
 # 📘 gh-pages · GitHub Actions Template
 
+![Deploy Status](https://github.com/TamerOnLine/gh-pages/actions/workflows/deploy.yml/badge.svg)
+
 🎯 This is a reusable GitHub Actions **template** for deploying [MkDocs](https://www.mkdocs.org/) sites to GitHub Pages.
 
 > 🧩 Use this template in any repository to instantly add a working `gh-pages` deployment workflow — no extra setup needed.
