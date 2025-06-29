@@ -1,9 +1,4 @@
 arrange:
   - index.md
   - about.md
-  - architecture.md
-  - cli
-  - api
-  - faq.md
-  - contributing.md
   - license.md
