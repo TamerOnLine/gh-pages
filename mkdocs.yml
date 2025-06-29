@@ -4,9 +4,6 @@ site_url: https://tameronline.github.io/pro-gh-pages/
 theme:
   name: material
 
-nav:
-  - Home: index.md
-
 plugins:
   - search
   - awesome-pages
