@@ -3,14 +3,12 @@ site_url: https://tameronline.github.io/pro-gh-pages/
 
 theme:
   name: material
-  language: ar
-  palette:
-    - scheme: default
-      primary: blue
-      accent: indigo
 
 plugins:
   - search
   - awesome-pages
   - git-revision-date
   - macros
+  - pdf-export:
+      verbose: true
+
