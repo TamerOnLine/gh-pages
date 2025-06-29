@@ -1,7 +1,9 @@
 name: 📘 Build and Deploy MkDocs
 
 on:
-  workflow_call:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
